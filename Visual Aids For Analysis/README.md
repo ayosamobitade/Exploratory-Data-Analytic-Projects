@@ -1,2 +1,2 @@
 # new readme file
-file:///C:/Users/HP/Projects/Exploratory%20Data%20Analytic%20Projects/Visual%20Aids%20For%20Analysis/Linechat.png
+![Linechat](https://user-images.githubusercontent.com/70634916/171408725-add99000-596f-43e6-b570-a1e66601b8c0.png)
