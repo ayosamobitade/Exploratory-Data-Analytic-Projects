@@ -1,7 +1,7 @@
 # VIsual Aids For EDA
 
-![Linechat](https://user-images.githubusercontent.com/70634916/171408725-add99000-596f-43e6-b570-a1e66601b8c0.png)
+![Linechat](https://user-images.githubusercontent.com/70634916/171411007-52571048-ff5d-4b94-b3f7-2c98ace87fde.png)
 
-![barchat](https://user-images.githubusercontent.com/70634916/171409400-24641e77-0925-4929-ba45-90564b4591be.png)
+![barchat](https://user-images.githubusercontent.com/70634916/171411115-e17153be-4678-4097-80e0-89baf2f62539.png)
 
-![barhchat](https://user-images.githubusercontent.com/70634916/171409520-937d9b10-2c79-479d-ba96-93a606e68e9d.png)
+![barhchat](https://user-images.githubusercontent.com/70634916/171411195-eae08ece-a682-477c-baab-088dd2a2067b.png)
